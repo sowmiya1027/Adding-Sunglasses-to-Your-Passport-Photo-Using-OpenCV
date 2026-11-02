@@ -78,7 +78,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the face image
-faceImage = cv2.imread('08.JPG')
+faceImage = cv2.imread('Me.jpeg')
 
 # Display the original face image
 plt.imshow(faceImage[:, :, ::-1])
