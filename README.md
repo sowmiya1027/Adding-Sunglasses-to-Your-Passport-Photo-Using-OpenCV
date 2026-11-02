@@ -1,4 +1,4 @@
-# Adding Sunglasses to Your Passport Photo Using OpenCV
+# Workshop -1: Adding Sunglasses to Your Passport Photo Using OpenCV
 # Name: Sowmiya R
 # Register Number: 212225040420
 
